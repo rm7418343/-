@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "𝗠𝗜𝗝𝗔𝗡𝗨𝗥 𝗥𝗔𝗛𝗠𝗔𝗡",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,16 +11,16 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌ ➳♥𝑴𝒊𝒋𝒂𝒏𝒖𝒓 𝑪𝒉𝒂𝒕 𝑩𝒐𝒕",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "https://www.facebook.com/mrmijanur.rahman.714",
+    "",
+    ""
   ],
-  "NDH": ["100001039692046"],
+  "NDH": [""],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
