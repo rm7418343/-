@@ -1,11 +1,11 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
+### —͟͟͞͞𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 CHAT BOT Fork!**
 
 ![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
 
@@ -156,22 +156,6 @@ ___
 
 
 
-## 👨‍💻 **ABOUT THE DEVELOPER**  
-  
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
-**Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
-
-### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
-
-### 🚀 **DEVELOPMENT APPROACH**  
-- 💻 **Copy-paste techniques with customizations**  
-- 🤝 **Collaborative development with friends**  
-- 🤖 **AI-powered using ChatGPT and other advanced tools**  
 
 
 
