@@ -1,7 +1,7 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": "𝑀𝑖𝑗𝑎𝑛𝑢𝑟 𝐶ℎ𝑎𝑡 𝐵𝑜𝑡",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By 𝗠𝗶𝗷𝗮𝗻𝘂 𝗥𝗮𝗵𝗺𝗮𝗻",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -19,15 +19,15 @@
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "𝙼𝚒𝚓𝚊𝚗𝚞𝚛project",
     "messenger",
     "javascript",
-    "shadat",
+    "𝑀𝑖𝑗𝑎𝑛𝑢𝑟",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "𝙼𝚒𝚓𝚊𝚗𝚞𝚛 𝚁𝚊𝚑𝚖𝚊𝚗",
+    "𝑀𝑖𝑗𝑎𝑛𝑢𝑟 𝐶ℎ𝑎𝑡 𝐵𝑜𝑡"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "𝙼𝚒𝚓𝚊𝚗𝚞𝚛 𝚁𝚊𝚑𝚖𝚊𝚗",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
